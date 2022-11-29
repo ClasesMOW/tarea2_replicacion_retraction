@@ -21,7 +21,7 @@ Con estos datos procesados, podemos replicar directamente las tablas de resultad
 
 Nosotros haremos cuatro cosas:
 
-Replicar el match por nuestra cuenta
-Estimar los resultados con nuestro match
-Replicar los resultados con el match de los autores
-Comparar los resultados de ambas estimaciones
+1. Replicar el match por nuestra cuenta
+2. Estimar los resultados con nuestro match
+3. Replicar los resultados con el match de los autores
+4. Comparar los resultados de ambas estimaciones
